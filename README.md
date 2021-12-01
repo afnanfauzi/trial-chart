@@ -1,4 +1,4 @@
-# belajar-chart
+# Trial-chart
 
 ## Project setup
 ```
